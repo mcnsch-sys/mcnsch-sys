@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**mcnsch-sys/mcnsch-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub terminal](https://neofetch-profile.vercel.app/api?username=mcnsch-sys&theme=github-dark)
 
-Here are some ideas to get you started:
+## About me
+- 👨‍💻 My name is Maicon
+- 🎓 Systems Analysis and Development student
+- 🌱 Currently learning Python, C, HTML, CSS and JavaScript
+- 📍 Brazil
+- 💼 Looking for opportunities in technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+- LinkedIn: https://www.linkedin.com/
+- Email: mcnsch@gmail.com
