@@ -10,10 +10,11 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mcnsch@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mcnsch--sys-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mcnsch-sys)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=mcnsch-sys&amp;theme=github-dark&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fmcnsch-sys%2Fmcnsch-sys%2Fmain%2Fneofetch.json" />
-  <img alt="Maicon's terminal-style GitHub profile" src="https://neofetch-profile.vercel.app/api?username=mcnsch-sys&amp;theme=github-light&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fmcnsch-sys%2Fmcnsch-sys%2Fmain%2Fneofetch.json" width="100%" />
-</picture>
+<p align="center">
+  <strong>Python · C · JavaScript · HTML · CSS · SQL</strong>
+</p>
+
+
 
 </div>
 
@@ -36,8 +37,7 @@ My background in **retail operations, customer service, and team leadership** he
 ### 🚀 Featured Project: RAÇÃO 109
 
 **Responsive web application for inventory expiration tracking and retail workflow management.**
-![Maicon GitHub Terminal](https://neofetch-profile.vercel.app/api?username=mcnsch-sys&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fmcnsch-sys%2Fmcnsch-sys%2Fmain%2Fneofetch.json)
-```text
+
 RAÇÃO 109 is a hands-on software project inspired by operational challenges in pet retail. Its goal is to replace fragmented manual processes with a more organized, mobile-friendly workflow for teams and managers.
 
 **Key modules and capabilities developed and iterated on:**
