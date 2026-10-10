@@ -1,4 +1,4 @@
-# Hi there 👋
+
 
 ![GitHub terminal](https://neofetch-profile.vercel.app/api?username=mcnsch-sys&theme=github-dark)
 
