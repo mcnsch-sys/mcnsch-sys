@@ -1,0 +1,35 @@
+{
+  "coloredImage": false,
+  "imageScale": 1,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "Maicon Schenato" },
+        { "key": "Location", "value": "Brazil" },
+        { "key": "Education", "value": "Systems Analysis & Development" },
+        { "key": "Role", "value": "Aspiring Software Developer" },
+        { "key": "Editor", "value": "VS Code" },
+        { "key": "Learning", "value": "Python, C, JavaScript, HTML, CSS" }
+      ]
+    },
+    {
+      "title": "- Featured Project",
+      "fields": [
+        { "key": "Project", "value": "RACAO 109" },
+        { "key": "Focus", "value": "Expiration tracking & retail workflows" },
+        { "key": "Stack", "value": "JavaScript, Supabase, SQL, ZXing" },
+        { "key": "Hosting", "value": "Cloudflare Pages / Netlify" },
+        { "key": "Status", "value": "Active development" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "mcnsch@gmail.com" },
+        { "key": "LinkedIn", "value": "maicon-schenato-6821641bb" }
+      ]
+    }
+  ],
+  "stats": { "enabled": true }
+}
